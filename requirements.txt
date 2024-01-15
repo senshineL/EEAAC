@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+argparse
+joblib
+git+https://github.com/automl/GenericWrapper4AC@master
+tabulate
+git+https://bitbucket.org/aadfreiburg/plotting_scripts
+ConfigSpace > 0.4
+pandas
